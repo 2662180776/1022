@@ -5,7 +5,7 @@
 # 公众号appSecret
 "app_secret": "c8907749ad6dcc1d852dc7ce2a581687",
 # 模板消息id
-"template_id": "6Tu-fJlZLfOSV-kgu8ZoGHIhGLMj19WM4LcRPGa1rRI",
+"template_id": "rkkhoB4MifGDcxsoK3oY7IzSwOBjD_lm7hqalQodvjE",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
 "user": ["oE59v6fuKJLPf5gVMsHMu91fWkGM","oE59v6Xn82-seD_KEn2lbwNhFv0A"],
  
@@ -16,6 +16,7 @@
 "region": "济南市",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
 "birthday1": {"name": "彤彤", "birthday": "r2001-09-06"},
+"birthday2": {"birthday": "2022-10-29"},
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2022-08-30",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
