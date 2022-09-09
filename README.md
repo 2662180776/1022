@@ -24,10 +24,11 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 
 风向：{{wind_dir.DATA}} 
 
-今天是我们恋爱的第{{love_day.DATA}}天 
+今天是我喜欢你的第{{love_day.DATA}}天 
 
-{{birthday1.DATA}} 
-{{birthday2.DATA}}
+{{birthday1.DATA}}
+距离教资考试还有{{birthday2.DATA}}天
+
 
 
 {{note_en.DATA}} 
