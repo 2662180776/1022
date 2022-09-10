@@ -200,9 +200,6 @@ def send_message(to_user, access_token, region_name, weather, temp, wind_dir, no
         print("推送消息成功")
     else:
         print(response)
-      
-    def time_long(time1, time2, type="day")
- 
  
 if __name__ == "__main__":
     try:
