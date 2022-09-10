@@ -22,5 +22,5 @@
 "love_date": "2022-08-30",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
 "note_ch": "月色与雪色之间，你是第三种绝色。日月星辉之间，你是第四种难得。",
-"note_en": "Between the moonlight and the snow, you are the third unique color. Between the sun, the moon and the stars, you are the fourth kind of rare.",
+"note_en": "",
 }
